@@ -47,9 +47,12 @@ A best discord music bot with support for:
 
 ### 🔹 Exodia Clan Wensite
 A websiite for clan exodia:
-- 
-- 
-- 
+- Admin dashboard
+- Events planning
+- Moments gallery
+- Announcements
+- Join exodia clan request
+
 > **Tech:** HTML, C++, Mysqlite
  
 ---
