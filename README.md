@@ -53,7 +53,7 @@ A websiite for clan exodia:
 - Announcements
 - Join exodia clan request
 
-> **Tech:** HTML, C++, Mysqlite
+> **Tech:** HTML, C++, MySqlite
  
 ---
 
