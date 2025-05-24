@@ -38,6 +38,20 @@ A powerful logger Discord bot with support for:
 
 > **Tech:** JavaScript, Discord.js, Node.js  
 
+### 🔹 Lyrica Music Bot
+A best discord music bot with support for:
+- Support all platforms ( youtube - spotify - deezer ... )
+- Premium music quality
+
+> **Tech:** JavaScript, Discord.js, Node.js
+
+### 🔹 Exodia Clan Wensite
+A websiite for clan exodia:
+- 
+- 
+- 
+> **Tech:** HTML, C++, Mysqlite
+ 
 ---
 
 ## 📈 GitHub Stats
