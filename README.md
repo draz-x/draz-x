@@ -45,7 +45,7 @@ A best discord music bot with support for:
 
 > **Tech:** JavaScript, Discord.js, Node.js
 
-### 🔹 Exodia Clan Wensite
+### 🔹 Exodia Clan Website
 A websiite for clan exodia:
 - Admin dashboard
 - Events planning
